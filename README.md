@@ -5,8 +5,15 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=8DBA8E&height=1&section=header" width="100%" alt="Green divider" />
 </div>
 
+<<<<<<< HEAD
 <p align="center">
 I’m currently an Information Systems student focusing on Full-Stack Development while continuously improving my coding skills and exploring modern technologies. My learning journey is centered around building web and mobile applications, with a growing interest in cross-platform development using Flutter, where I enjoy turning ideas into simple, functional mini projects and real-world solutions. I also like using AI to explore new things, speed up my learning process, and experiment with innovative ideas in development.
+=======
+
+<div style="position: relative; text-align: center;">
+  <p align="center">
+  <img src="./head.jpg" width="1000">
+>>>>>>> 8a48cba3a999272819f1d9f1a21b3da14cbea323
 </p>
 
 <p align="center">
