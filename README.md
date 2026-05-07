@@ -5,7 +5,7 @@
 
 <div style="position: relative; text-align: center;">
   <p align="center">
-  <img src="./head.jpg" width="600">
+  <img src="./head.jpg" width="1000">
 </p>
 <h1>Welcome</h1>
 <p>This is <a href="https://t.me/Holy_Snow">HolySnow's</a> Github page.</p>
