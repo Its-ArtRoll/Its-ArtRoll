@@ -8,7 +8,7 @@
 joey@huang: ~/readme $ fastfetch
 ```
 
-<img src="static/b-080.png" align="left" alt="death note L" width="30%" style=" padding-right: 10px;">
+<img src="static/bg.jpeg" align="left" alt="death note L" width="30%" style=" padding-right: 10px;">
 
 ```csharp
 ------------------------------------------------------------
