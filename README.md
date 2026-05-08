@@ -31,7 +31,7 @@ favorite.anime: one piece
 
 <p align="center">
   <a href="">
-    <img src="https://skillicons.dev/icons?i=python,ubuntu,arch,git,docker,c#,tailwind,html,css,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=python,ubuntu,arch,git,docker,c#" />
   </a>
 </p>
 
