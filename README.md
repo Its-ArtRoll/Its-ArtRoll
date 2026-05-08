@@ -48,7 +48,7 @@ favorite.anime: one piece
 <div align="center">
     
 ![My GitHub stats](https://github-readme-stats-opal-psi-50.vercel.app/api?username=jyyhuang&show_icons=true&theme=tokyonight&card_width=400&line_height=24)
-![Top Languages](https://github-readme-stats-opal-psi-50.vercel.app/api/top-langs/?username=Its_ArtRoll&theme=tokyonight&layout=compact&langs_count=8)
+![Top Languages](https://github-readme-stats-opal-psi-50.vercel.app/api/top-langs/?username=Its-ArtRoll&theme=tokyonight&layout=compact&langs_count=8)
 </div>
 
 <h3 align="center">Thanks for Reading <3</h3>
