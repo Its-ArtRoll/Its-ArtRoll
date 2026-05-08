@@ -5,7 +5,7 @@
 </div>
 
 ```zsh
-joey@huang: ~/readme $ fastfetch
+GitHub@Artroll: (https://github.com/Its-ArtRoll)
 ```
 
 <img src="static/bg.jpeg" align="left" alt="death note L" width="30%" style=" padding-right: 10px;">
