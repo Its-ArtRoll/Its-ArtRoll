@@ -8,7 +8,7 @@
 GitHub@Artroll: (https://github.com/Its-ArtRoll)
 ```
 
-<img src="static/bg.jpeg" align="left" alt="death note L" width="30%" style=" padding-right: 10px;">
+
 
 ```csharp
 ------------------------------------------------------------
@@ -22,7 +22,7 @@ reading: nothing atm
 locations: iran
 hobbies: programming, gaming, anime/manga, music, fashion
 song: Cinnamon Girl
-favorite.game: pubg
+favorite.game: roblox
 favorite.anime: one piece
 ------------------------------------------------------------
 ```
